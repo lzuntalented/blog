@@ -1,0 +1,1 @@
+1.修改git brush中显示中文时乱码，使用命令 git config --global core.quotepath false
